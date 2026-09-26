@@ -1,0 +1,4 @@
+interface:
+  display_name: "穿影功能开发导航"
+  short_description: "专注检查穿影功能与数据库进度，并给出唯一下一步任务"
+  default_prompt: "使用 $chuanying-backend-next-step 检查当前功能与数据库进度，并告诉我下一步只做什么。"
